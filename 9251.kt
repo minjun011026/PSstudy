@@ -19,5 +19,3 @@ fun main() {
     bw.flush()
     bw.close()
 }
-
-
